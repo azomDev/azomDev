@@ -5,10 +5,6 @@
 <br>
 
 <div align='center'>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://devicon-website.vercel.app/api/typescript/original.svg" width="50" height="50">
-    <img src="https://devicon-website.vercel.app/api/flutter/original.svg" width="50" height="50">
-  </picture>
   <img src="https://devicon-website.vercel.app/api/typescript/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/flutter/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/svelte/original.svg" width="50" height="50"></img>
@@ -23,7 +19,10 @@
   <img src="https://devicon-website.vercel.app/api/linux/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/vim/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/docker/original.svg" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/latex/original.svg" width="50" height="50"</img>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF" width="50" height="50">
+    <img src="https://devicon-website.vercel.app/api/latex/original.svg" width="50" height="50">
+  </picture>
   <img src="https://devicon-website.vercel.app/api/python/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="50" height="50"></img>
