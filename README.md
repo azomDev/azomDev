@@ -5,6 +5,10 @@
 <br>
 
 <div align='center'>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://devicon-website.vercel.app/api/typescript/original.svg" width="50" height="50">
+    <img src="https://devicon-website.vercel.app/api/flutter/original.svg" width="50" height="50">
+  </picture>
   <img src="https://devicon-website.vercel.app/api/typescript/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/flutter/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/svelte/original.svg" width="50" height="50"></img>
