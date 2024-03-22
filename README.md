@@ -18,7 +18,7 @@
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="50" height="50"></img>
 </div>
 
-<img src=" https://bun.sh/logo.svg"></img>
+<img src="https://bun.sh/logo.svg"></img>
 
 
 <div align='center'>
