@@ -11,7 +11,7 @@
   <img src="https://devicon-website.vercel.app/api/linux/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/vim/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/docker/original.svg" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/latex/original.svg" width="50" height="50" style="filter: grayscale(0%) brightness(100%) opacity(80%);"></img>
+  <img src="https://devicon-website.vercel.app/api/latex/original.svg" width="50" height="50" style="filter: grayscale(0%) brightness(50%);"></img>
   <img src="https://devicon-website.vercel.app/api/python/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="50" height="50"></img>
