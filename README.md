@@ -10,7 +10,7 @@
   <img src="https://devicon-website.vercel.app/api/svelte/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" width="50" height="50"></img>
   <img src="https://bun.sh/logo.svg" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" width="60" height="60"></img>
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" width="50" height="50"></img>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" width="50" height="50"></img>
 </div>
 
