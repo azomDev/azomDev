@@ -7,7 +7,6 @@
 <div align='center'>
   <img src="https://devicon-website.vercel.app/api/typescript/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/flutter/original.svg" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/dart/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/svelte/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" width="50" height="50"></img>
   <img src="https://bun.sh/logo.svg" width="50" height="50"></img>
