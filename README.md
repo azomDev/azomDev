@@ -7,6 +7,7 @@
 <div align='center'>
   <img src="https://devicon-website.vercel.app/api/typescript/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/flutter/original.svg" width="50" height="50"></img>
+  <img src="https://devicon-website.vercel.app/api/dart/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/svelte/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" width="50" height="50"></img>
   <img src="https://bun.sh/logo.svg" width="50" height="50"></img>
@@ -29,4 +30,12 @@
 
 <div align='center'>
     <img src='https://github-readme-stats-azomwastakens-projects.vercel.app/api?username=azomDev&theme=catppuccin_mocha&card_width=500&show_icons=true&count_private=true&hide_title=true'>
+</div>
+
+<br>
+<br>
+
+
+<div align="center">
+¯\\\_(ツ)\_/¯
 </div>
