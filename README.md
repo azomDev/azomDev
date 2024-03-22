@@ -11,7 +11,7 @@
   <img src="https://devicon-website.vercel.app/api/svelte/original.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" width="50" height="50"></img>
   <img src="https://bun.sh/logo.svg" width="50" height="50"></img>
-  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" width="50" height="50"></img>
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" width="60" height="60"></img>
 </div>
 
 <div align='center'>
