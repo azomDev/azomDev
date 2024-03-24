@@ -1,7 +1,6 @@
 <div align='center'>
   <h3>Technologies I use in no particular order</h3>
 </div>
-<img src='https://github-readme-stats-azomwastakens-projects.vercel.app/logos.png'>
 <br>
 
 <div align='center'>
@@ -12,6 +11,10 @@
   <img src="https://bun.sh/logo.svg" width="50" height="50"></img>
   <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" width="50" height="50"></img>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" width="50" height="50"></img>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-azomwastakens-projects.vercel.app/logos.png" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" width="50" height="50">
+  </picture>
 </div>
 
 <div align='center'>
