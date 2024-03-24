@@ -1,7 +1,7 @@
 <div align='center'>
   <h3>Technologies I use in no particular order</h3>
 </div>
-
+<img src='https://github-readme-stats-azomwastakens-projects.vercel.app/logos.png'>
 <br>
 
 <div align='center'>
