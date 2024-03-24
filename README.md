@@ -33,7 +33,7 @@
 <br>
 
 <div align='center'>
-    <img src='https://github-readme-stats-azomwastakens-projects.vercel.app/api?username=azomDev&theme=catppuccin_mocha&card_width=500&show_icons=true&count_private=true&hide_title=true&theme=transparent'>
+    <img src='https://github-readme-stats-azomwastakens-projects.vercel.app/api?username=azomDev&card_width=500&show_icons=true&count_private=true&hide_title=true&theme=transparent'>
 </div>
 
 <br>
