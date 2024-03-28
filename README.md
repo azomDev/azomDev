@@ -42,8 +42,6 @@
 
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=azomDev&color=gray">
-</div>
-
-<div align="center">
+  <br>
 ¯\_(ツ)_/¯
 </div>
