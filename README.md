@@ -16,6 +16,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" width="50" height="50">
     </picture>
   </a>
+  <a href="https://www.rust-lang.org/"><img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-64x64.png" width="50" height="50"></a>
 </div>
 
 <div align='center'>
