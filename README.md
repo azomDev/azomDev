@@ -32,7 +32,7 @@
   </a>
   <a href="https://www.python.org/"><img src="https://devicon-website.vercel.app/api/python/original.svg" width="50" height="50"></a>
   <a href="https://www.javascript.com/"><img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="50" height="50"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://devicon-website.vercel.app/api/html5/original.svg" width="50" height="50"></a>
+  <a href="https://html.spec.whatwg.org/"><img src="https://devicon-website.vercel.app/api/html5/original.svg" width="50" height="50"></a>
 </div>
 
 
