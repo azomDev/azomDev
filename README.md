@@ -22,7 +22,6 @@
   <a href="https://www.java.com/"><img src="https://devicon-website.vercel.app/api/java/original.svg" width="50" height="50"></a>
   <a href="https://www.linux.org/"><img src="https://devicon-website.vercel.app/api/linux/original.svg" width="50" height="50"></a>
   <a href="https://neovim.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/492px-Neovim-mark.svg.png" width="45" height="50"></a>
-
   <a href="https://www.latex-project.org/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF" width="50" height="50">
@@ -43,7 +42,7 @@
 <br>
 
 <div align='center'>
-    <img src='https://github-readme-stats-azomwastakens-projects.vercel.app/api?username=azomDev&card_width=500&show_icons=true&count_private=true&hide_title=true&theme=transparent&hide_border=true&include_all_commits=true'>
+    <img src="https://github-readme-stats-azomwastakens-projects.vercel.app/api?username=azomDev&card_width=500&show_icons=true&count_private=true&hide_title=true&theme=transparent&hide_border=true&include_all_commits=true">
 </div>
 
 
