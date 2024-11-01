@@ -16,14 +16,13 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" width="50" height="50">
     </picture>
   </a>
-  <a href="https://www.rust-lang.org/"><img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-64x64.png" width="50" height="50"></a>
 </div>
 
 <div align='center'>
   <a href="https://www.java.com/"><img src="https://devicon-website.vercel.app/api/java/original.svg" width="50" height="50"></a>
   <a href="https://www.linux.org/"><img src="https://devicon-website.vercel.app/api/linux/original.svg" width="50" height="50"></a>
   <a href="https://neovim.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/492px-Neovim-mark.svg.png" width="45" height="50"></a>
-  <a href="https://www.docker.com/"><img src="https://devicon-website.vercel.app/api/docker/original.svg" width="50" height="50"></a>
+
   <a href="https://www.latex-project.org/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF" width="50" height="50">
@@ -35,6 +34,11 @@
   <a href="https://html.spec.whatwg.org/"><img src="https://devicon-website.vercel.app/api/html5/original.svg" width="50" height="50"></a>
 </div>
 
+<div align='center'>
+  <a href="https://www.rust-lang.org/"><img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-64x64.png" width="50" height="50"></a>
+  <a href="https://nixos.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nix_Snowflake_Logo.svg" width="50" height="50"></a>
+  <a href="https://www.docker.com/"><img src="https://devicon-website.vercel.app/api/docker/original.svg" width="50" height="50"></a>
+</div>
 
 <br>
 
