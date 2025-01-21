@@ -37,6 +37,8 @@
   <a href="https://www.rust-lang.org/"><img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-64x64.png" width="50" height="50"></a>
   <a href="https://nixos.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nix_Snowflake_Logo.svg" width="50" height="50"></a>
   <a href="https://www.docker.com/"><img src="https://devicon-website.vercel.app/api/docker/original.svg" width="50" height="50"></a>
+  <a href="https://www.sqlite.org/index.html"><img src="https://devicon-website.vercel.app/api/sqlite/original.svg" width="50" height="50"></a>
+  
 </div>
 
 <br>
