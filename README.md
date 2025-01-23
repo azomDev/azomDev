@@ -1,64 +1,71 @@
-<div align='center'>
-  <p>Hey, thanks for taking a look at my profile! I'm currently studying quantum computing science, since my passion is programming with some interest in physics, I'm also currently trying to specialize in quantum/classical cryptography. I believe in open source software and try to help from time to time :)</p>
-
-  <p>I'm someone with lots of ideas that often go nowhere, but I like to try implementing some since I love learning! Mabye one day i'll create a place to put all of these ideas...</p>
+<div align="center">
+  <h1>Welcome to My GitHub Profile</h1>
+  <p>
+    I'm pursuing a degree in quantum computing science with a passion for programming and physics. 
+    My current interests include quantum and classical cryptography, and I'm an advocate for open-source 
+    software, contributing to give back to the community.
+  </p>
+  <p>
+    I enjoy experimenting with ideas—some succeed, some don't, but every experience is a chance to learn. 
+    Mabye one day i'll create a place to put all of these ideas...
+  </p>
 </div>
 
-<div align='center'>
-  <h3>Technologies I use in no particular order</h3>
+<div align="center">
+  <h2>Technologies I Work With</h2>
 </div>
-<br>
 
-<div align='center'>
-  <a href="https://www.typescriptlang.org/"><img src="https://devicon-website.vercel.app/api/typescript/original.svg" width="50" height="50"></a>
-  <a href="https://flutter.dev/"><img src="https://devicon-website.vercel.app/api/flutter/original.svg" width="50" height="50"></a>
-  <a href="https://svelte.dev/"><img src="https://devicon-website.vercel.app/api/svelte/original.svg" width="50" height="50"></a>
-  <a href="https://www.cplusplus.com/"><img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" width="50" height="50"></a>
-  <a href="https://bun.sh/"><img src="https://bun.sh/logo.svg" width="50" height="50"></a>
-  <a href="https://tailwindcss.com/"><img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" width="50" height="50"></a>
-  <a href="https://qiskit.org/">
+<div align="center">
+  <h3>Programming Languages</h3>
+  <a href="https://www.rust-lang.org/"><img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-64x64.png" width="50" height="50" alt="Rust"></a>
+  <a href="https://www.python.org/"><img src="https://devicon-website.vercel.app/api/python/original.svg" width="50" height="50" alt="Python"></a>
+  <a href="https://www.java.com/"><img src="https://devicon-website.vercel.app/api/java/original.svg" width="50" height="50" alt="Java"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://devicon-website.vercel.app/api/typescript/original.svg" width="50" height="50" alt="TypeScript"></a>
+  <a href="https://www.javascript.com/"><img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="50" height="50" alt="JavaScript"></a>
+  <a href="https://www.cplusplus.com/"><img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" width="50" height="50" alt="C++"></a>
+</div>
+
+<div align="center">
+  <h3>Frameworks and Libraries</h3>
+   <a href="https://qiskit.org/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-azomwastakens-projects.vercel.app/logos.png" width="50" height="50">
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" width="50" height="50">
     </picture>
   </a>
+  <a href="https://flutter.dev/"><img src="https://devicon-website.vercel.app/api/flutter/original.svg" width="50" height="50" alt="Flutter"></a>
+  <a href="https://svelte.dev/"><img src="https://devicon-website.vercel.app/api/svelte/original.svg" width="50" height="50" alt="Svelte"></a>
+  <a href="https://tailwindcss.com/"><img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" width="50" height="50" alt="TailwindCSS"></a>
 </div>
 
-<div align='center'>
-  <a href="https://www.java.com/"><img src="https://devicon-website.vercel.app/api/java/original.svg" width="50" height="50"></a>
-  <a href="https://www.linux.org/"><img src="https://devicon-website.vercel.app/api/linux/original.svg" width="50" height="50"></a>
-  <a href="https://neovim.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/492px-Neovim-mark.svg.png" width="45" height="50"></a>
-  <a href="https://www.latex-project.org/">
+<div align="center">
+  <h3>Tools and Platforms</h3>
+  <a href="https://www.linux.org/"><img src="https://devicon-website.vercel.app/api/linux/original.svg" width="50" height="50" alt="Linux"></a>
+    <a href="https://www.latex-project.org/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://devicon-website.vercel.app/api/latex/original.svg?color=%23FFFFFF" width="50" height="50">
       <img src="https://devicon-website.vercel.app/api/latex/original.svg" width="50" height="50">
     </picture>
   </a>
-  <a href="https://www.python.org/"><img src="https://devicon-website.vercel.app/api/python/original.svg" width="50" height="50"></a>
-  <a href="https://www.javascript.com/"><img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="50" height="50"></a>
-  <a href="https://html.spec.whatwg.org/"><img src="https://devicon-website.vercel.app/api/html5/original.svg" width="50" height="50"></a>
+  <a href="https://www.sqlite.org/index.html"><img src="https://devicon-website.vercel.app/api/sqlite/original.svg" width="50" height="50" alt="SQLite"></a>
+  <a href="https://www.docker.com/"><img src="https://devicon-website.vercel.app/api/docker/original.svg" width="50" height="50" alt="Docker"></a>
+  <a href="https://nixos.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nix_Snowflake_Logo.svg" width="50" height="50" alt="NixOS"></a>
 </div>
 
-<div align='center'>
-  <a href="https://www.rust-lang.org/"><img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-64x64.png" width="50" height="50"></a>
-  <a href="https://nixos.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nix_Snowflake_Logo.svg" width="50" height="50"></a>
-  <a href="https://www.docker.com/"><img src="https://devicon-website.vercel.app/api/docker/original.svg" width="50" height="50"></a>
-  <a href="https://www.sqlite.org/index.html"><img src="https://devicon-website.vercel.app/api/sqlite/original.svg" width="50" height="50"></a>
-  
+<div align="center">
+  <h2>Featured Project</h2>
+  <p>
+    I'm working on <a href="https://github.com/azomDev/PrivacyPin">PrivacyPin</a>, a secure, open-source, self-hosted 
+    location-sharing app designed to prioritize user privacy. If you're passionate about privacy and want to contribute, 
+    join me in building something impactful!
+  </p>
 </div>
 
-<br>
-
-<div align='center'>
-    <img src="https://github-readme-stats-azomwastakens-projects.vercel.app/api?username=azomDev&card_width=500&show_icons=true&count_private=true&hide_title=true&theme=transparent&hide_border=true&include_all_commits=true">
+<div align="center">
+  <h2>My GitHub Stats</h2>
+  <img src="https://github-readme-stats-azomwastakens-projects.vercel.app/api?username=azomDev&card_width=500&show_icons=true&count_private=true&hide_title=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub Stats">
 </div>
 
-
-<br>
-<br>
-
-<div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=azomDev&color=gray">
-  <br>
-¯\_(ツ)_/¯
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=azomDev&color=gray" alt="Profile Views">
 </div>
