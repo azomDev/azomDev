@@ -3,7 +3,6 @@
 
   <p>I'm someone with lots of ideas that often go nowhere, but I like to try implementing some since I love learning! Mabye one day i'll create a place to put all of these ideas...</p>
 </div>
-<br>
 
 <div align='center'>
   <h3>Technologies I use in no particular order</h3>
