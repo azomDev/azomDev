@@ -1,4 +1,11 @@
 <div align='center'>
+  <p>Hey, thanks for taking a look at my profile! I'm currently studying quantum computing science, since my passion is programming with some interest in physics, I'm also currently trying to specialize in quantum/classical cryptography. I believe in open source software and try to help from time to time :)</p>
+
+  <p>I'm someone with lots of ideas that often go nowhere, but I like to try implementing some since I love learning! Mabye one day i'll create a place to put all of these ideas...</p>
+</div>
+<br>
+
+<div align='center'>
   <h3>Technologies I use in no particular order</h3>
 </div>
 <br>
