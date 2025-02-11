@@ -38,7 +38,6 @@
   <a href="https://git-scm.com/"><img src="https://devicon-website.vercel.app/api/git/original.svg" width="50" height="50" alt="Git"></a>
   <a href="https://numpy.org/"><img src="https://devicon-website.vercel.app/api/numpy/original.svg" width="50" height="50" alt="Numpy"></a>
   <a href="https://jupyter.org"><img src="https://devicon-website.vercel.app/api/jupyter/original-wordmark.svg" width="50" height="50" alt="Jupyter"></a>
-  <a href="https://pennylane.ai/"><img src="https://devicon-website.vercel.app/api/jupyter/original-wordmark.svg" width="50" height="50" alt="Pennylane"></a>
   <a href="https://svelte.dev/"><img src="https://devicon-website.vercel.app/api/svelte/original.svg" width="50" height="50" alt="Svelte"></a>
   <a href="https://tailwindcss.com/"><img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" width="50" height="50" alt="TailwindCSS"></a>
 </div>
