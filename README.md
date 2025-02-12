@@ -35,7 +35,6 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" width="50" height="50">
     </picture>
   </a>
-  <a href="https://git-scm.com/"><img src="https://devicon-website.vercel.app/api/git/original.svg" width="50" height="50" alt="Git"></a>
   <a href="https://numpy.org/"><img src="https://devicon-website.vercel.app/api/numpy/original.svg" width="50" height="50" alt="Numpy"></a>
   <a href="https://jupyter.org"><img src="https://devicon-website.vercel.app/api/jupyter/original-wordmark.svg" width="50" height="50" alt="Jupyter"></a>
   <a href="https://svelte.dev/"><img src="https://devicon-website.vercel.app/api/svelte/original.svg" width="50" height="50" alt="Svelte"></a>
@@ -51,6 +50,7 @@
       <img src="https://devicon-website.vercel.app/api/latex/original.svg" width="50" height="50">
     </picture>
   </a>
+ <a href="https://git-scm.com/"><img src="https://devicon-website.vercel.app/api/git/original.svg" width="50" height="50" alt="Git"></a>
   <a href="https://www.sqlite.org/index.html"><img src="https://devicon-website.vercel.app/api/sqlite/original.svg" width="50" height="50" alt="SQLite"></a>
   <a href="https://fedoraproject.org/"><img src="https://devicon-website.vercel.app/api/fedora/original.svg" width="50" height="50" alt="Fedora Linux"></a>
   <a href="https://www.docker.com/"><img src="https://devicon-website.vercel.app/api/docker/original.svg" width="50" height="50" alt="Docker"></a>
