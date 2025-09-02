@@ -62,7 +62,7 @@
   <p>
     I'm working on <a href="https://github.com/azomDev/PrivacyPin">PrivacyPin</a>, a secure, open-source, self-hosted 
     location-sharing app designed to prioritize user privacy. If you're passionate about privacy and want to contribute, 
-    join me in building something impactful!
+    let me know :D
   </p>
 </div>
 
