@@ -18,11 +18,11 @@
 <div align="center">
   <h3>Programming Languages</h3>
   <a href="https://www.rust-lang.org/"><img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-64x64.png" width="50" height="50" alt="Rust"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://devicon-website.vercel.app/api/typescript/original.svg" width="50" height="50" alt="TypeScript"></a>
+  <a href="https://www.javascript.com/"><img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="50" height="50" alt="JavaScript"></a>
   <a href="https://www.python.org/"><img src="https://devicon-website.vercel.app/api/python/original.svg" width="50" height="50" alt="Python"></a>
   <a href="https://flutter.dev/"><img src="https://devicon-website.vercel.app/api/flutter/original.svg" width="50" height="50" alt="Flutter"></a>
   <a href="https://www.java.com/"><img src="https://devicon-website.vercel.app/api/java/original.svg" width="50" height="50" alt="Java"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://devicon-website.vercel.app/api/typescript/original.svg" width="50" height="50" alt="TypeScript"></a>
-  <a href="https://www.javascript.com/"><img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="50" height="50" alt="JavaScript"></a>
   <a href="https://www.cplusplus.com/"><img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" width="50" height="50" alt="C++"></a>
 </div>
 
