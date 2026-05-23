@@ -17,7 +17,7 @@
 
 <div align="center">
   <h3>Programming Languages</h3>
-  <a href="https://www.rust-lang.org/"><img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rusty/rust-logo-64x64.png" width="50" height="50" alt="Rust"></a>
+  <a href="https://www.rust-lang.org/"><img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rusty/rust-logo-128x128.png" width="50" height="50" alt="Rust"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://devicon-website.vercel.app/api/typescript/original.svg" width="50" height="50" alt="TypeScript"></a>
   <a href="https://www.javascript.com/"><img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="50" height="50" alt="JavaScript"></a>
   <a href="https://www.python.org/"><img src="https://devicon-website.vercel.app/api/python/original.svg" width="50" height="50" alt="Python"></a>
